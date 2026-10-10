@@ -1,0 +1,6 @@
+question,option A,option B,option C,option D,answer,time (seconds),points
+What does HTTP stand for?,HyperText Transfer Protocol,High Transfer Text Protocol,HyperText Transmission Process,Host Transfer Technical Protocol,A,15,1000
+Which data structure works on the LIFO principle?,Queue,Stack,Array,Linked list,B,15,1000
+Which company created the Java language?,Microsoft,Sun Microsystems,Oracle,IBM,B,20,1000
+"What is the time complexity of binary search?",O(n),O(n log n),O(log n),O(1),C,20,1500
+Is the Earth round? (True/False style - only two options),True,False,,,A,10,500
